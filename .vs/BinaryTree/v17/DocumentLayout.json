@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\models\\treenodedefence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\models\\treenodedefence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\models\\defence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\models\\defence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\models\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\models\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\utils\\manipulatejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\utils\\manipulatejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\jsons\\defencestrategies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\jsons\\defencestrategies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\utils\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\utils\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\utils\\wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\utils\\wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\utils\\workflow.cs||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\utils\\workflow.cs||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\jsons\\defence.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\jsons\\defence.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|c:\\users\\poly7\\source\\repos\\binarytree\\binarytree\\jsons\\threat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B63A42B2-B197-4CF8-A50F-C64C61703635}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\jsons\\threat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefenceStrategies.json",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Jsons\\DefenceStrategies.json",
+              "RelativeDocumentMoniker": "BinaryTree\\Jsons\\DefenceStrategies.json",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Jsons\\DefenceStrategies.json",
+              "RelativeToolTip": "BinaryTree\\Jsons\\DefenceStrategies.json",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T14:47:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Defence.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Models\\Defence.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Models\\Defence.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Models\\Defence.cs",
+              "RelativeToolTip": "BinaryTree\\Models\\Defence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:40:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManipulateJson.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\ManipulateJson.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Utils\\ManipulateJson.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\ManipulateJson.cs",
+              "RelativeToolTip": "BinaryTree\\Utils\\ManipulateJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:23:09.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Program.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Program.cs",
+              "RelativeToolTip": "BinaryTree\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:07:23.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Threat.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Models\\Threat.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Models\\Threat.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Models\\Threat.cs",
+              "RelativeToolTip": "BinaryTree\\Models\\Threat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:00:20.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeNodeDefence.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Models\\TreeNodeDefence.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Models\\TreeNodeDefence.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Models\\TreeNodeDefence.cs",
+              "RelativeToolTip": "BinaryTree\\Models\\TreeNodeDefence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:13:39.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Defence.json",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Jsons\\Defence.json",
+              "RelativeDocumentMoniker": "BinaryTree\\Jsons\\Defence.json",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Jsons\\Defence.json",
+              "RelativeToolTip": "BinaryTree\\Jsons\\Defence.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T09:28:40.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkFlow.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\WorkFlow.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Utils\\WorkFlow.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\WorkFlow.cs",
+              "RelativeToolTip": "BinaryTree\\Utils\\WorkFlow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:22:01.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkFlow.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\WorkFlow.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Utils\\WorkFlow.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\WorkFlow.cs",
+              "RelativeToolTip": "BinaryTree\\Utils\\WorkFlow.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:22:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WF.cs",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\WF.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Utils\\WF.cs",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Utils\\WF.cs",
+              "RelativeToolTip": "BinaryTree\\Utils\\WF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:38:36.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Threat.json",
+              "DocumentMoniker": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Jsons\\Threat.json",
+              "RelativeDocumentMoniker": "BinaryTree\\Jsons\\Threat.json",
+              "ToolTip": "C:\\Users\\poly7\\source\\repos\\BinaryTree\\BinaryTree\\Jsons\\Threat.json",
+              "RelativeToolTip": "BinaryTree\\Jsons\\Threat.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T11:58:39.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
